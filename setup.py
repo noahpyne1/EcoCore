@@ -10,7 +10,7 @@ setup(
     description='A custom game library',
     author='Noah Payne',
     author_email='noahalexanderpayne@gmail.com',
-    url='https://github.com/yourusername/ecocore',
+    url='https://github.com/noahpyne1/EcoCore',
     classifiers=[
         'Programming Language :: Python :: 3',
         'License :: OSI Approved :: MIT License',
